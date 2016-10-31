@@ -1,6 +1,6 @@
-## misc
+# misc
 
-# Number storage optimization
+## Number storage optimization
 Firsts digits which are common to the numbers should not be duplicated in the memory. Fortunately, the specifications also have this little chart to guide you in the implementation :
 
 ```
